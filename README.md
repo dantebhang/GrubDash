@@ -7,7 +7,7 @@ A server designed to handle HTTP requests for individual restaurant dishes and d
 3. Use `npm start` to host the server locally. 
 
 If `API_BASE_URL` is not set, a default value of `http://localhost:5000` is used. <br>
-Optionally, you may run the [front-end application](https://github.com/Thinkful-Ed/starter-grub-dash-front-end) on the same server for a more visual representation of this project. 
+Optionally, you may run the [front-end application](https://github.com/Thinkful-Ed/starter-grub-dash-front-end) for a more visual representation of this project. 
 
 ## Technology
 Built with Express, JavaScript, Node.js
